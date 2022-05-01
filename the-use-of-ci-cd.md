@@ -1,6 +1,6 @@
-#The Use of CI/CD
+# The Use of CI/CD
 
-##The Problems of Integrating New Code
+## The Problems of Integrating New Code
 
 Software development is a dynamic process that involves constant 
 experimentation and feedback, and the test-driven development (TDD) methodology is a pronounced example of that. In the past, team members worked on software projects separately.
@@ -15,7 +15,7 @@ Testing was conventionally performed by a separate team that only examined the q
 already reached a significant milestone.
 
 
-##Continuous Integration and Delivery
+## Continuous Integration and Delivery
 
 Continuous Integration is the set of practices that steer the development process into pushing small code changes into a version control repository consistently. These small-scale snapshots get tested automatically through a well-defined pipeline.
 
@@ -45,7 +45,7 @@ operation of your organization takes a real-time approach where the business nee
 It is easier to pinpoint the source of an error when each change that could cause breakage during rollout is monitored. By the same token, it is easier to roll back to a previous state if a specific alteration caused an issue.
 
 
-##Downsides of CI/CD
+## Downsides of CI/CD
 
 There are disadvantages to the CI/CD approach that one must be aware of.
 
